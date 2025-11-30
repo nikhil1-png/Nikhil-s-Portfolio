@@ -98,10 +98,11 @@ const projectsData = [
         buttonText: "View Pitch Deck"
     },
     {
-        name: "Project 4",
-        coverImage: "project4-cover.jpg",
-        overview: "Project 4 is a comprehensive solution that addresses multiple aspects of a complex problem. It features a robust architecture, clean code, and excellent user experience. The project demonstrates mastery of various technologies and methodologies.",
-        about: "The creation of Project 4 involved extensive research and development. Throughout the process, we focused on creating something meaningful that would have a positive impact. The project reflects dedication to quality and excellence."
+        name: "Socbiz Consult",
+        coverImage: "cover4.png",
+        overview: "In June-July 2025, a five-member SocBiz IIT Roorkee team collaborated with a leading real estate and infrastructure conglomerate operating 25+ premium food courts across India. Employing rigorous frameworks issue trees, customer journey mapping, mystery shopping, and stall-level data diagnostics the team uncovered critical demand-side, supply-side, and operational gaps driving low purchase intent. The outcome was a focused, low capex 60-day playbook built around weekend activation, sensory enhancement, menu reorientation, and hyper local promotion, all designed for rapid pilot validation and pan-India scalability",
+        about: "In June-July 2025, a SocBiz IIT Roorkee team diagnosed low food-court conversion in two Tier-2 malls through 60+ hours of observation, mystery audits, vendor interviews, and daily sales analysis.\nFour high-impact, low-capex interventions were piloted:\n\nDigital queues + pre-order app with flexible seating\nWeekend sensory boost (music, lighting, strict cleanliness)\nCo-created budget combos and BOGO offers\nHyper-local promotions tied to popular regional vendors\n\n60-day pilot results:\n• Conversion rate +16-22%\n• Average order value +18%\n• Sales per sq ft +24%\n• Peak vs. non-peak gap reduced by 28%\nPilot budget: ₹18–22 lakh | Projected ROI: >400%. The solutions are now being rolled out nationwide and marked the project as one of SocBiz IIT Roorkee's top live engagements of 2025",
+        caseStudyLink: "https://drive.google.com/drive/folders/1LLRNKyFmx_LS5GeZTpzGZxu0SCb34n7_"
     }
 ];
 
